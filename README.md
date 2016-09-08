@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-This is my edit-README.
+I hope this will succeed.
